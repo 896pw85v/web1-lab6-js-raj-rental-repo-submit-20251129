@@ -1,1 +1,2 @@
 # web1-lab6-js-raj-rental-repo-submit-2025127
+This repository contains my submission for Lab 6: Using JavaScript and Deploying a Website, where I updated a provided website with interactive JavaScript functionality, organized the project into the required folder structure (HTML, CSS, images, and scripts), validated the JavaScript code, and deployed the site using GitHub Pages as part of the course assignment.
